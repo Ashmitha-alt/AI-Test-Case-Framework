@@ -1,0 +1,9 @@
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/TmsApplication.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/controller/TestCaseController.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/dto/AiTestCaseSuggestion.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/model/SuggestionResponse.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/model/TestCase.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/repository/TestCaseRepository.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/service/AiSuggestionService.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/service/OllamaService.java
+/Users/myralaashmitha/documets/TMS_wireframe1/tmsBackend/src/main/java/com/example/tms/service/TestCaseService.java
