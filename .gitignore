@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Java / Maven (tmsBackend)
+tmsBackend/target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Node / Vite (tmsFrontend)
+tmsFrontend/node_modules/
+tmsFrontend/dist/
+tmsFrontend/dist-ssr/
+npm-debug.log*
+
+# Logs
+*.log
+
+# Env
+.env
+.env.local
