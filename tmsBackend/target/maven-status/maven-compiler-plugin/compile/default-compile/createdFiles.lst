@@ -1,9 +1,0 @@
-com/example/tms/repository/TestCaseRepository.class
-com/example/tms/service/TestCaseService.class
-com/example/tms/controller/TestCaseController.class
-com/example/tms/dto/AiTestCaseSuggestion.class
-com/example/tms/TmsApplication.class
-com/example/tms/model/SuggestionResponse.class
-com/example/tms/model/TestCase.class
-com/example/tms/service/AiSuggestionService.class
-com/example/tms/service/OllamaService.class
